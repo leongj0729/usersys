@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author LZ
+ * @author LJJ
  * @date 2020/11/25
  */
 @WebServlet("/AddUserServlet")

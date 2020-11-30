@@ -8,7 +8,7 @@ import org.apache.ibatis.session.SqlSession;
 import java.util.List;
 
 /**
- * @author LZ
+ * @author LJJ
  * @date 2020/11/25
  */
 public class UserDaoImpl implements UserDao {

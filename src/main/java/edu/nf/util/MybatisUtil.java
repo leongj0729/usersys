@@ -8,7 +8,7 @@ import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 import java.io.InputStream;
 
 /**
- * @author LZ
+ * @author LJJ
  * @date 2020/11/25
  */
 public class MybatisUtil {
